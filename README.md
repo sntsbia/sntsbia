@@ -1,48 +1,70 @@
-# Hi, I'm Beatriz Santos! 👋
+# Olá, eu sou a Beatriz Santos! 👋
 
-I’m so glad you’re here!
-I’m passionate about all things mobile development—especially Android 📱. I love building impactful apps, exploring the latest tech trends, and always finding ways to grow. Take a look around, and if you want to connect or talk about coding, don’t hesitate to reach out!
+### Desenvolvedora Android | Apaixonada por Tecnologia e Inovação
 
-Welcome to my GitHub profile! Here you'll find my main projects, technology interests, and ways to get in touch.
+Sou uma desenvolvedora focada no ecossistema mobile, especialmente **Android Nativo com Kotlin**. Meu objetivo é construir aplicações que gerem impacto positivo, explorando as últimas tendências tecnológicas e buscando constantemente o crescimento profissional.
 
-## 🚀 Featured Projects
+Este é o meu espaço para compartilhar projetos, aprendizados e paixões. Fique à vontade para explorar e vamos nos conectar!
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](https://developer.android.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org/)
-
-### [DexGo](https://github.com/sntsbia/DexGo)
-
-**DexGo** is an app that allows users to explore and list existing Pokémon, with features to filter by ID, type, or name.  
-Users can select a Pokémon from the list to view full details, including both shiny and normal versions.
-
-**Features:**
-- Pokémon list with filters by ID, type, or name
-- Detailed view of each Pokémon
-- Efficient loading with PagingSource
-
-**Tech Stack:**  
-PagingSource, ViewModels, DataBinding, LiveData, Flow, Retrofit, Hilt
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
 
-### [Android-TDD-Masterclass](https://github.com/sntsbia/Android-TDD-Masterclass)
+## 🚀 Projetos em Destaque
 
-Repository with **practical projects** and **notes** from the  
-["Master Android App Development (Kotlin) with Clean Architecture, TDD, HILT, Espresso & Unit Testing"](https://www.udemy.com/share/103Mhq3@5GTl7c99XZc2NNFIC9XM97I2l-gqh18oPkxRrk8mepJpuali4Sx3F3FaN299wW98Hw==/) Udemy course.
+### 📱 DexGo: Uma Pokédex Moderna para Android
+🔗 **[Acesse o Repositório](https://github.com/sntsbia/DexGo)**
 
-- [Project 1: Car and Engine with TDD and Coroutines](https://github.com/sntsbia/Android-TDD-Masterclass/blob/master/projetos/MyFirstUnitTest)
-- [Project 2: Groovy - Playlist List App with MVVM](https://github.com/sntsbia/Android-TDD-Masterclass/blob/master/projetos/Groovy)
-- Technical notes on TDD, test types, approaches, Coroutines & Kotlin Flow, S.O.L.I.D., and dependency injection with Hilt
+**DexGo** é uma Pokédex que permite aos usuários explorar e listar Pokémon existentes. O app foi construído para ser performático e escalável, utilizando as melhores práticas do desenvolvimento Android.
+
+* **Funcionalidades Principais:**
+    * Listagem infinita de Pokémon com carregamento eficiente via `PagingSource`.
+    * Filtros por ID, tipo ou nome.
+    * Tela de detalhes com informações completas, incluindo versões shiny e normais.
+* **Stack Tecnológica:** Kotlin, Paging 3, ViewModel, LiveData, Flow, Coroutines, Retrofit, Hilt, DataBinding.
+
+### ☁️ Imersão Cloud DevOps
+🔗 **[Acesse o Repositório](https://github.com/sntsbia/playlists-imersao)**
+
+Projeto desenvolvido durante a Imersão Cloud DevOps, focado na aplicação prática de conceitos de automação e conteinerização.
+
+* **Conceitos Aplicados:**
+    * Automação de tarefas e scripts com **Python**.
+    * Conteinerização de uma aplicação simples com **Docker**, garantindo portabilidade e isolamento.
+    * Organização de um fluxo de trabalho básico de DevOps.
+
+### 🎓 Android TDD & Clean Architecture
+🔗 **[Acesse o Repositório de Estudos](https://github.com/sntsbia/Android-TDD-Masterclass)**
+
+Este repositório contém projetos práticos e anotações do curso [**Master Android App Development (Kotlin) with Clean Architecture, TDD, HILT, Espresso & Unit Testing**](https://www.udemy.com/share/103Mhq3@5GTl7c99XZc2NNFIC9XM97I2l-gqh18oPkxRrk8mepJpuali4Sx3F3FaN299wW98Hw==/). É um registro do meu aprofundamento em arquitetura de software e testes.
+
+* **Tópicos Estudados:**
+    * Desenvolvimento Guiado por Testes (TDD) com JUnit e Espresso.
+    * Injeção de Dependências com Hilt.
+    * Arquitetura MVVM e Clean Architecture.
+    * Programação assíncrona com Coroutines e Flow.
+    * Princípios S.O.L.I.D.
+ 
+- [Projeto 1: Car and Engine with TDD and Coroutines](https://github.com/sntsbia/Android-TDD-Masterclass/blob/master/projetos/MyFirstUnitTest)
+- [Projeto 2: Groovy - Playlist List App with MVVM](https://github.com/sntsbia/Android-TDD-Masterclass/blob/master/projetos/Groovy)
 
 ---
 
-## 🌐 How to reach me
+## 🌐 Vamos nos Conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/beatriz-santos-169a38145)
-[![E-mail](https://img.shields.io/badge/E--mail-red?logo=gmail&style=for-the-badge)](mailto:sntsb.social@gmail.com)
+Adoraria trocar ideias sobre desenvolvimento mobile, tecnologia ou qualquer outro assunto!
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-santos-169a38145)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sntsb.social@gmail.com)
 
-Thank you for visiting! Feel free to explore my repositories, connect with me, or chat about mobile development. 😄
-
+Obrigada pela visita! 😄
