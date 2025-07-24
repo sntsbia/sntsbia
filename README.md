@@ -22,6 +22,19 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ## 🚀 Projetos em Destaque
 
+### 🛡️ GitHub User Manager API
+🔗 **[Acesse o Repositório](https://github.com/sntsbia/github-manager)**
+
+Uma API RESTful construída com Spring Boot e Kotlin para gerenciar usuários e perfis (roles), populando a base inicial a partir da API pública do GitHub.
+
+* **Principais Funcionalidades:**
+    * Ingestão de dados de usuários do GitHub na inicialização da aplicação.
+    * Gerenciamento e vinculação de perfis de acesso (roles).
+    * Endpoints para listagem de usuários e seus perfis.
+    * Estrutura pronta para autenticação JWT e banco de dados com versionamento via Flyway.
+
+* **Tecnologias:** Spring Boot, Kotlin, Gradle, Spring Data JPA, H2 Database, Flyway, OpenFeign, Spring Security, Jakarta Validation.
+
 ### 📱 DexGo: Uma Pokédex Moderna para Android
 🔗 **[Acesse o Repositório](https://github.com/sntsbia/DexGo)**
 
