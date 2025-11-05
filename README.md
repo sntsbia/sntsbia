@@ -1,8 +1,8 @@
 # Olá, eu sou a Beatriz Santos! 👋
 
-### Desenvolvedora Android | Apaixonada por Tecnologia e Inovação
+### Desenvolvedora Mobile | Apaixonada por Tecnologia e Inovação
 
-Sou uma desenvolvedora focada no ecossistema mobile, especialmente **Android Nativo com Kotlin**. Meu objetivo é construir aplicações que gerem impacto positivo, explorando as últimas tendências tecnológicas e buscando constantemente o crescimento profissional.
+Sou uma desenvolvedora focada no ecossistema mobile. Atualmente trabalho com **Android Nativo (Kotlin)** e estou me aprofundando em **Dart** com planos de migrar/expandir para **Flutter** em breve. Meu objetivo é construir aplicações que gerem impacto positivo, explorando as últimas tendências e boas práticas de desenvolvimento.
 
 Este é o meu espaço para compartilhar projetos, aprendizados e paixões. Fique à vontade para explorar e vamos nos conectar!
 
@@ -10,11 +10,13 @@ Este é o meu espaço para compartilhar projetos, aprendizados e paixões. Fique
 
 ## 💻 Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+Aqui estão algumas das tecnologias com as quais tenho trabalhado ou estudado:
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](https://developer.android.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)](https://flutter.dev/) <!-- Flutter: em estudo/plano -->
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
@@ -59,7 +61,7 @@ Projeto desenvolvido durante a Imersão Cloud DevOps, focado na aplicação prá
 ### 🎓 Android TDD & Clean Architecture
 🔗 **[Acesse o Repositório de Estudos](https://github.com/sntsbia/Android-TDD-Masterclass)**
 
-Este repositório contém projetos práticos e anotações do curso [**Master Android App Development (Kotlin) with Clean Architecture, TDD, HILT, Espresso & Unit Testing**](https://www.udemy.com/share/103Mhq3@5GTl7c99XZc2NNFIC9XM97I2l-gqh18oPkxRrk8mepJpuali4Sx3F3FaN299wW98Hw==/). É um registro do meu aprofundamento em arquitetura de software e testes.
+Este repositório contém projetos práticos e anotações do curso [**Master Android App Development (Kotlin) with Clean Architecture, TDD, HILT, Espresso & Unit Testing**](https://www.udemy.com/).
 
 * **Tópicos Estudados:**
     * Desenvolvimento Guiado por Testes (TDD) com JUnit e Espresso.
@@ -67,15 +69,23 @@ Este repositório contém projetos práticos e anotações do curso [**Master An
     * Arquitetura MVVM e Clean Architecture.
     * Programação assíncrona com Coroutines e Flow.
     * Princípios S.O.L.I.D.
- 
-- [Projeto 1: Car and Engine with TDD and Coroutines](https://github.com/sntsbia/Android-TDD-Masterclass/blob/master/projetos/MyFirstUnitTest)
-- [Projeto 2: Groovy - Playlist List App with MVVM](https://github.com/sntsbia/Android-TDD-Masterclass/blob/master/projetos/Groovy)
+
+---
+
+## 🧪 Projetos / Estudos em Dart e Flutter
+
+Estou estudando Dart e começando a construir projetos para fixar os conceitos. Em breve migrando e construindo interfaces com Flutter.
+
+- 🔗 **[dart-notes-app](https://github.com/sntsbia/dart-notes-app)** — App de notas em Dart (estudo inicial).
+- 🔗 **[dart-app](https://github.com/sntsbia/dart-app)** — Repositório com experimentos e exemplos em Dart.
+
+Se quiser acompanhar minha jornada com Dart e Flutter, esses repositórios têm os primeiros passos e anotações.
 
 ---
 
 ## 🌐 Vamos nos Conectar?
 
-Adoraria trocar ideias sobre desenvolvimento mobile, tecnologia ou qualquer outro assunto!
+Adoraria trocar ideias sobre desenvolvimento mobile, Flutter, Dart, ou qualquer outro assunto!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-santos-169a38145)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sntsb.social@gmail.com)
