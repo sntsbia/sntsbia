@@ -1,8 +1,10 @@
 # Olá, eu sou a Beatriz Santos! 👋
 
-### Desenvolvedora Mobile | Apaixonada por Tecnologia e Inovação
+## Desenvolvedora Kotlin | Apaixonada por Tecnologia e Inovação
 
-Sou uma desenvolvedora focada no ecossistema mobile. Atualmente trabalho com **Android Nativo (Kotlin)** e estou me aprofundando em **Dart** com planos de migrar/expandir para **Flutter** em breve. Meu objetivo é construir aplicações que gerem impacto positivo, explorando as últimas tendências e boas práticas de desenvolvimento.
+Sou uma desenvolvedora de software focada no ecossistema **Kotlin**, aplicando-o tanto no **Backend (Spring Boot)** quanto no **Android Nativo**. Meu objetivo é construir aplicações robustas e que gerem impacto positivo, explorando as últimas tendências e boas práticas de desenvolvimento.
+
+Atualmente, também estou me aprofundando em **Dart** com planos de migrar/expandir para **Flutter** em breve.
 
 Este é o meu espaço para compartilhar projetos, aprendizados e paixões. Fique à vontade para explorar e vamos nos conectar!
 
@@ -10,7 +12,7 @@ Este é o meu espaço para compartilhar projetos, aprendizados e paixões. Fique
 
 ## 💻 Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado ou estudado:
+Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](https://developer.android.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org/)
@@ -22,7 +24,37 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado ou estudado:
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🧪 Projetos / Estudos em Dart e Flutter
+
+Estou ativamente estudando Dart como preparação para migrar para o Flutter. Os projetos abaixo são aplicações de console que usei para solidificar os conceitos da linguagem e praticar a lógica de programação.
+
+### 🎯 Dart Mini-Apps (Menu de Estudos)
+🔗 **[Acesse o Repositório](https://github.com/sntsbia/dart-notes-app)**
+
+Uma coleção de pequenos "mini-apps" de console em Dart, executados a partir de um menu principal interativo. Cada app foca em uma lógica de negócio ou exercício de programação diferente.
+
+* **Módulos Incluídos**:
+
+   * Calculadora, Registro de Participantes, Média de Idade, Cálculo de Salário, Transações PIX, Clube de Benefícios, Validador de Cupons e outros.
+
+   * Menu principal interativo para navegação entre os programas.
+
+* **Tecnologias:** Dart, Dart Test (Testes unitários).
+
+## 📝 Dart Notes App
+🔗 **[Acesse o Repositório](https://github.com/sntsbia/dart-app)**
+
+Uma aplicação de console simples para gerenciamento de notas, construída puramente em Dart para praticar a manipulação de dados e interação com o usuário via terminal.
+
+* **Principais Funcionalidades:**
+
+   * Criar, visualizar e deletar notas.
+
+   * Interface de menu interativo no terminal.
+
+* **Tecnologias:** Dart, Dart Test.
+
+## 🚀 Projetos / Estudos em Kotlin e Android
 
 ### 🛡️ GitHub User Manager API
 🔗 **[Acesse o Repositório](https://github.com/sntsbia/github-manager)**
@@ -72,17 +104,6 @@ Este repositório contém projetos práticos e anotações do curso [**Master An
 
 ---
 
-## 🧪 Projetos / Estudos em Dart e Flutter
-
-Estou estudando Dart e começando a construir projetos para fixar os conceitos. Em breve migrando e construindo interfaces com Flutter.
-
-- 🔗 **[dart-notes-app](https://github.com/sntsbia/dart-notes-app)** — App de notas em Dart (estudo inicial).
-- 🔗 **[dart-app](https://github.com/sntsbia/dart-app)** — Repositório com experimentos e exemplos em Dart.
-
-Se quiser acompanhar minha jornada com Dart e Flutter, esses repositórios têm os primeiros passos e anotações.
-
----
-
 ## 🌐 Vamos nos Conectar?
 
 Adoraria trocar ideias sobre desenvolvimento mobile, Flutter, Dart, ou qualquer outro assunto!
@@ -90,4 +111,4 @@ Adoraria trocar ideias sobre desenvolvimento mobile, Flutter, Dart, ou qualquer 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-santos-169a38145)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sntsb.social@gmail.com)
 
-Obrigada pela visita! 😄
+Obrigada pela visita! 
